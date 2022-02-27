@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A coppie of a letter, sent from one of the agitators in the army, to an agitator in the city. Published for satisfaction to the well affected party in the kingdome.</title>
+            <author>One of the agitators in the Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80480</idno>
+            <idno type="STC">Wing C6144</idno>
+            <idno type="STC">Thomason E399_29</idno>
+            <idno type="STC">ESTC R201728</idno>
+            <idno type="EEBO-CITATION">99862227</idno>
+            <idno type="PROQUEST">99862227</idno>
+            <idno type="VID">114378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114378)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A coppie of a letter, sent from one of the agitators in the army, to an agitator in the city. Published for satisfaction to the well affected party in the kingdome.</title>
+                  <author>One of the agitators in the Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A satire"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "July 22th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114378:1" rendition="simple:additions"/>
+            <p>A COPPIE Of a LETTER, SENT FROM ONE OF THE AGITATORS In the Army, to an Agitator IN THE CITIE.</p>
+            <p>Publiſhed for ſatisfaction to the well affected party in the KINGDOME.</p>
+            <p>
+               <hi>London,</hi> printed 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114378:2"/>
+            <pb n="1" facs="tcp:114378:2"/>
+            <head>A Letter from an Adiutator in the Army, to an Adiutator in the CITY,
+<date>
+                  <hi>Iuly</hi> 22. 1647.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Y your, and our friends indefatigable induſtry in the City, we gather ſtrength daily, which ſhall nouriſh your bodies as our owne.</p>
+            <p>Firſt for the King, hee is a knotty inflexible peece; Yet wee have as many fine plots on him, as ever he had on his people.</p>
+            <p>To oblige him; we allow him his Chaplaines, and have placed the great Socinian, Our <hi>L. G.</hi> of the Ordinance owne brother who is totally for tolleration, which is <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re though <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>flow En<g ref="char:EOLhyphen"/>gine to deſtroy Monarchy, and ſet up our Republicke, which the Godly party thirſt after; but they muſt have patience, otherwiſe we ſhall ſpoyle all. For the truth is, the people in the Country, are generally for the King, and ſo we heare they are in the City; Therfore at preſent we are forced to play our cards another way, though we are confident to win the game though not ſo ſudden<g ref="char:EOLhyphen"/>ly yet as ſurely.</p>
+            <p>The Romiſh Catholikes are treating with us, (which is a con<g ref="char:EOLhyphen"/>ſiderable party,) and they will yeeld a round ſumme of money to the Army for the preſent, and a great Revenew for the future.</p>
+            <p>Our Noble ingenious Commiſſary of Horſe his brother in Law, one <hi>Ford;</hi> A Catholike, and a moſt able man is their Agent, they are to have a toleration in their houſes not to ſing Maſs p<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>in the Churches, for this will give offence to all.</p>
+            <p>The King and his party are to have the Booke of Common Prayer, this will devide and weaken them much in the City, <pb n="2" facs="tcp:114378:3"/>and ſet the Prelaticall, and Presbyterian Faction together by the eares, and render the King odious both to the Presbyterian and thoſe of the ſeparation, and the ſcandall of which will much increaſe the Godly party.</p>
+            <p>If we devide thoroughly in every family (as we are much ad<g ref="char:EOLhyphen"/>vanced in the worke) we ſhall raigne ſpeedily, and hold it ſure<g ref="char:EOLhyphen"/>ly, and continually.</p>
+            <p>Beſides this will pleaſe, and deceave the French Ambaſſa<g ref="char:EOLhyphen"/>dour, (hoping wee will bee in confuſion) and conſequently the Queen.</p>
+            <p>There are diverſe obſcure Perſons treating for the Kings Par<g ref="char:EOLhyphen"/>ty. We ſhall be favourable to the Nobility and Gentry which have been in Armes, and ſome few Citizens, but we are reſolved to ſqueez the rich of all ſides, thoſe ſave-ſtakes or Purſe-Malig<g ref="char:EOLhyphen"/>nants. By compounding, by way of ſequeſtrations, and for the 5th and 20th part, and in calling them to account for abuſing the State in their ſeverall Committees, which will be popular; but we will have a ſpeciall care of the godly party every where, we have a Liſt of them; We are reſolved to keep up our Army, which will be a Seminary and Sanctuary for the Saints, and pro<g ref="char:EOLhyphen"/>vide bravely for our poore Brethren, and exalt them, and hum<g ref="char:EOLhyphen"/>ble the rich and proud.</p>
+            <p>We make no queſtion but in ſhort time, that we ſhall be Ma<g ref="char:EOLhyphen"/>ſters of all the Militia by Sea and Land, and in <hi>England,</hi> and
+<hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and conſequently of all the Treaſure, and then wee can im<g ref="char:EOLhyphen"/>poſe what we pleaſe, and above all we are in a faire and ſpeedy way to Gariſon <hi>London,</hi> under colour of ſuppreſſing of tumults, and liberating the Parliament from the Reformadoes, who ſtay in the City, contray to the Ordinance of Parliament, and we can find witneſſe for any thing if there be occaſion, as how they liſt themſelves, and Souldiers dayly to levev a new Warre, this will make them odious in the City and Country: and wee can make the flegmaticke rich Common Councell beleeve that the Reformadoes intend to plunder the City; therfore we hope to perſwade them to take two Regiments of our Foot, and two Regiments of Horſe to guard them and the Parliament, which ſhall coſt them nothing for the preſent.</p>
+            <pb n="3" facs="tcp:114378:3"/>
+            <p>And for your comfort the City Commiſſioners are all our own And I pray get them as often changed as you can, by that meanes we ſhall be ſure to ingage the whole Common Councell; change the Militia, or at leaſt joyn the old and new together, and by this means we ſhall be maſters of all, and get the Tower of <hi>London</hi> into our friends hands.</p>
+            <p>We heare ſomthing of your Apprentices, Watermen, and Sea<g ref="char:EOLhyphen"/>men, but they are a body without a head, therfore we do not much regard them.</p>
+            <p>We are ſorry we omitted the laſt opportunity in our marching up to <hi>London;</hi> the ſalt was not ours, for our Brethren the Ad<g ref="char:EOLhyphen"/>jutators were unanimous, for inveſting and ſummoning the city, which had done the work: but our Generall, and Grandees, (ex<g ref="char:EOLhyphen"/>cept brave Magnanimous
+<hi>Cromwel</hi> were againſt it; for they were aſſured after the 11. Members withdrew themſelves, they would get paſſes and be gone beyond the Sea: their ſtay (contrary to our friends undertaking above) was the cauſe of our putting in our particular accuſation, which is ſhort of promiſe and ex<g ref="char:EOLhyphen"/>pectation, and hath diſcovered and weakned our cauſe to the view of the people, whom we held in a miſt and blinded them as long as we layd our charge in generall.</p>
+            <p>This uſe we ſhall make of this Omiſſion: Firſt, wee will diſ<g ref="char:EOLhyphen"/>place our Generall, and put <hi>Crumwell</hi> that brave Head-peece in his room, and we ſhall remove divers of the Grandees, and draw in our Brethren the Agitators, who have more wit and courage then the reſt. <hi>L. G. Hamond,</hi> Colonell <hi>Rich,</hi> and Colo. <hi>Fleet<g ref="char:EOLhyphen"/>wood</hi> are great ſcandalls to our Army, for they are covetous, and want both wit and courage, and their pay will doe well amongſt us. And we muſt advance Cornet
+<hi>Joyſs,</hi> who hath done halfe the worke in poſſeſſing the King.</p>
+            <p>If you and we can remove one block out of the way the work is done, and all is our owne.</p>
+            <p>That is by any way or meanes to get the 11. Members to tra<g ref="char:EOLhyphen"/>vell, which God be praiſed we heare is now done, which hath lifted up our hearts exceedingly.</p>
+            <p>Many of them are rich, aſſure them firſt by hope and promiſes that if they goe, they ſhall have the beſt ſecurity in
+<hi>England</hi> 
+               <pb n="4" facs="tcp:114378:4"/>(which is an Act from the Generall and Councell of Warre) that they ſhall enjoy their eſtates exempt from paying any taxes, or from quarter, this will goe far with ſome of them.</p>
+            <p>If this will not do, (as I am aſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red from good hands it wil) then uſe force and threatnings, that they ſhall be ſerved (as <hi>Poynt</hi> was) if they remain in the Kingdome, them their eſtates ſhall be ſequeſtred, Wife and Children ruined: and if they ſhall dare to ſit in the Houſe, the Army will march up, and pull them out by head and ſhoulders, and cut their throats, and all their party ſhall ſuffer with them, the City ſhall be fired, and plundered, and plun<g ref="char:EOLhyphen"/>dered, and all the bloud and miſchiefe will light on them.</p>
+            <p>But if this ſhould ſaile, our Councells will be divided, and our greateſt and ſureſt deſignes will bee obſtructed if not rui<g ref="char:EOLhyphen"/>ned.</p>
+            <p>Our deſigne is now for the Weſt, who are ſo zealous for King and Parliament, and Vniformity in Church-Government.</p>
+            <p>Wee muſt make ſure of <hi>Waymouth, Exeter, Plimouth,</hi> and <hi>Fa<g ref="char:EOLhyphen"/>mouth,</hi> and alter thoſe Garriſons, and put in 6000. of our foot under our faithfull Commanders there, and leave 2000. Horſe to awe theſe countyon. Wee intend to carry the King along with us, for he growes worſe and worſe, though we will give out and print dayly, that all is agreed betwixt Him and Vs. And to pleaſe the City and Country, that we are to bring him up to his Parliament, and muſt have his hand to every thing, to coun<g ref="char:EOLhyphen"/>tenance our proceedings; and if we cannot do it by flattery or force, we can do it another way, and it will paſſe for currant.</p>
+            <p>We heare ſome of our freinds are jealous, becauſe we uſe the King ſo well, and that wee intend to hold up Monarchy, and get places about the King: Aſſure the godly party we will not recead from our Principles, for that would be our certain per<g ref="char:EOLhyphen"/>petuall ruin. Have but patience, and give us a little leaſure, you ſhall ſee Monarchy will not be long liv'd.</p>
+            <p>But to leave digreſſion, our eye-ſore is the 11. Members if they ſhould ſit in the Houſe' we know not what to reſolve, we muſt march up to <hi>London,</hi> only to ſcare them. But ſuppoſe
+<hi>Lon<g ref="char:EOLhyphen"/>don</hi> ſhould defend themſelves, declaring for the King, and the Priviledge of Parliament, what would become of Vs? If we leave the King behind, the people will murmur<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if wee bring <pb n="5" facs="tcp:114378:4"/>him along with us; ſuppoſe when the City is in this poſture of defence, the King declare for the Parliament and City. (as we ſuſpect he will) and that which is worſe, that be is a Priſoner: I tell you in my opinion except we can bend the King and make Him our bow to ſhoot at the Parliament, as I feare he is ſo quick ſighted (that He is prepoſſeſſed from the Queen, that wee are
+<hi>Anti-monarchicall</hi>) we ſhall have a Wolfe by the ears. Then
+<hi>Joyce</hi> his Councell had been beſt, for he would have decolled him.</p>
+            <p>We hear that there are 10000. Auxiliaries liſted, that the trai<g ref="char:EOLhyphen"/>ned Bands are perfected, that every houſe in <hi>London</hi> is full of Arms, that the Saylers and Watermen offer to man the Works, and furniſh
+10000.</p>
+            <p>There are 600. Horſe rayſed to defend the City, though we deſpiſe the number in regard of our Horſe, yet they anim<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te the people, and prevent
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> chiefeſt hope<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which is an inſurrection of our party.</p>
+            <p>We like not the Reformadoes, they are thorns in our eyes, and we fear ſome perſonage of quality may lead them; and 'tis re<g ref="char:EOLhyphen"/>ported they can make a 1000. horſe of their own, 2000. horſe in the City will be ſtill falling upon our horſe and foot quarters, and 5000. Horſe cannot in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt the City, not 30000 foot: our men muſt bee day and night on horſeback, which duty, and want of pay, will make our common men run away, becauſe they will deſpaire of Plunder, and lying about the City will ſtarve our Army.</p>
+            <p>If wee tax the Country we ſhall looſe the people; beſides Londiners be an ill Preſident, for they will pay no taxes.</p>
+            <p>If we enter but the Line their Horſe will deſtroy us, or if we enter the City, being chayned and barrocaded up, our Army will be but a handfull to them, for they will have Carbines and Fouling-peices in their windows, Artillery in every ſtreet, Pikes and Muskets invulnerable, Beſides they will have <hi>Maſye, Wal<g ref="char:EOLhyphen"/>ler,</hi> and all the chiefe Commanders in the Kingdome to order, deſigne and execute. Therefore the 11. Members muſt be de<g ref="char:EOLhyphen"/>ſtroyed either by Poyſon or Aſſaſſination.</p>
+            <p>We heare they have ſent Senu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> abroad, and therefore wee cannot ſurpriſe them.</p>
+            <pb n="6" facs="tcp:114378:5"/>
+            <p>And laſt of all, if the King declares himſelfe a Priſoner, and <hi>London</hi> ſtands upon their guard, we are aſſured the
+<hi>Scots</hi> will come in, and this we ſhall ſoon apprehend, the Countrys being burdened with taxes and free-quarter, will riſe as one man a<g ref="char:EOLhyphen"/>gainſt us. Now Brother you may ſee in what condition we are, and how far we have advanc't our deſignes already: conſider likewiſe the laſt demands of our Army, made <hi>Iuly</hi> 19. 1647. and ſent up to the Parliament.
+<hi>Videli.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That we have a Bienniall Parliament, with the ſame li<g ref="char:EOLhyphen"/>mitations as the Trienniall.</hi>
+               </item>
+               <item>2. <hi>The Militia by Sea and Land.</hi>
+               </item>
+               <item>3. <hi>A Councell in Intervalls of Parliament conſiſting of</hi> 21.</item>
+               <item>4. <hi>Paenall Statutes for going to Churches to Common Pray<g ref="char:EOLhyphen"/>er be taken off, but proviſor ſtill to give no latitude to the Papiſt.</hi>
+               </item>
+               <item>5. <hi>An eaſe for tender Conſciences,</hi>
+               </item>
+               <item>6. <hi>The number of exempted Perſons to bee leastned, and their compoſitions to be eaſier: and more eſpecially thoſe Mem<g ref="char:EOLhyphen"/>bers of the Houſe on whom they lye moſt heavy.</hi>
+               </item>
+            </list>
+            <p>In moſt of the reſt of the Propoſitions, we agree, or very little differ, and in ſhort time we ſhall have theſe, and other of our demands, concerning the Militia of <hi>London,</hi> and the Decla<g ref="char:EOLhyphen"/>ration for hindering forreigne forces, and that we get our mo<g ref="char:EOLhyphen"/>ny equally, with the diſſerters, and releaſe out of Priſon our brave blades, Leift. Col.
+<hi>Lilburn,</hi> Mr. <hi>Muſgrave,</hi> and Mr. <hi>Overton,</hi> &amp;c. Iudge what is left to the Presbiterian party par<g ref="char:EOLhyphen"/>ty. I have no more at preſent, but that I am.</p>
+            <closer>
+               <signed>
+                  <hi>Your loving Brother</hi> &amp;c.</signed>
+               <date>
+                  <hi>July</hi> 22. 1647.</date>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
